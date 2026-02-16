@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #000; /* Dark theme like COD */
+    font-family: Arial, sans-serif;
+}
+#gameCanvas {
+    border: 2px solid #fff;
+    background: #333; /* Battlefield feel */
+}
